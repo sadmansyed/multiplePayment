@@ -1,1 +1,1 @@
-# Payment with multiple merchant using paypal
+# Payment with multiple merchant 
